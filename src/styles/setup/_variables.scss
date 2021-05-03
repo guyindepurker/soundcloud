@@ -1,0 +1,22 @@
+
+
+// LAYOUT BREAKPOINTS
+$break-xs-mobile: 350px;
+$break-max-mobile: 380px;
+$break-mobile: 400px;
+$break-mobile-min: 450px;
+$break-min-narrow:500px;
+$break-max-narrow: 550px;
+$break-narrow: 750px;
+$break-mid-normal: 850px;
+$break-normal: 950px;
+$break-max-normal: 1050px;
+$break-wide: 1300px;
+
+//FONTS
+$logo-font:'RocknRoll One', sans-serif;
+$font-primary:'Rubik', sans-serif;
+$font-secondary:'Lato', sans-serif;
+
+//LAYOUT
+$grid-container-column:minmax(rem(30px),1fr) minmax(auto,$break-wide) minmax(rem(30px),1fr);

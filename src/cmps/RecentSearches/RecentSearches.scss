@@ -1,0 +1,14 @@
+@import "./src/styles/setup";
+
+.recent-searches {
+        animation: fadeIn 1s ease-in;
+
+        .recent-search-title {
+                font-size: 30px;
+                color: #2d2d2d;
+                margin-bottom: 20px;
+                text-transform: capitalize;
+        }
+
+        padding-bottom: 15px;
+}

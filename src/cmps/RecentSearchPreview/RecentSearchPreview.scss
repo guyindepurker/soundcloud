@@ -1,0 +1,23 @@
+@import "./src/styles/setup";
+
+.recent-search-preview {
+        cursor: pointer;
+        font-weight: 500;
+        letter-spacing: 1px;
+        padding: 20px;
+        border-radius: 20px;
+        box-shadow: 1px 3px 20px 0px #00000024;
+        background-color: #fff;
+        transition: all .3s ease-in;
+
+        &:hover {
+                background-color: rgba(237, 237, 237, 0.893);
+                transform: translateX(10px);
+
+        }
+
+        &:not(:last-child) {
+                margin-bottom: 20px;
+
+        }
+}

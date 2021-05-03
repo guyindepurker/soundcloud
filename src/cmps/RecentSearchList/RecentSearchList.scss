@@ -1,0 +1,7 @@
+@import "./src/styles/setup";
+
+.recent-search-list {
+        display: grid;
+        grid-template-columns: repeat(2, max-content);
+        column-gap: 11px;
+}
