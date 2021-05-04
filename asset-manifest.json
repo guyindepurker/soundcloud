@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/css/main.a2e92b42.chunk.css",
-    "main.js": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/main.feaacfd8.chunk.js",
-    "main.js.map": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/main.feaacfd8.chunk.js.map",
-    "runtime-main.js": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/runtime-main.9e828106.js",
-    "runtime-main.js.map": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/runtime-main.9e828106.js.map",
-    "static/css/2.0c51300a.chunk.css": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/css/2.0c51300a.chunk.css",
-    "static/js/2.7c327f92.chunk.js": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/2.7c327f92.chunk.js",
-    "static/js/2.7c327f92.chunk.js.map": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/2.7c327f92.chunk.js.map",
-    "static/js/3.94fbd5d2.chunk.js": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/3.94fbd5d2.chunk.js",
-    "static/js/3.94fbd5d2.chunk.js.map": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/3.94fbd5d2.chunk.js.map",
-    "index.html": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/index.html",
-    "service-worker.js": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/service-worker.js",
-    "service-worker.js.map": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/service-worker.js.map",
-    "static/css/2.0c51300a.chunk.css.map": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/css/2.0c51300a.chunk.css.map",
-    "static/css/main.a2e92b42.chunk.css.map": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/css/main.a2e92b42.chunk.css.map",
-    "static/js/2.7c327f92.chunk.js.LICENSE.txt": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/js/2.7c327f92.chunk.js.LICENSE.txt",
-    "static/media/logo.d7f3b5e6.svg": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/media/logo.d7f3b5e6.svg",
-    "static/media/primeicons.css": "/%E2%80%8Bhttps://guyindepurker.github.io/soundcloud/static/media/primeicons.e61f3495.woff"
+    "main.css": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/css/main.a2e92b42.chunk.css",
+    "main.js": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/main.e082a167.chunk.js",
+    "main.js.map": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/main.e082a167.chunk.js.map",
+    "runtime-main.js": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/runtime-main.08f2d255.js",
+    "runtime-main.js.map": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/runtime-main.08f2d255.js.map",
+    "static/css/2.b0d49717.chunk.css": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/css/2.b0d49717.chunk.css",
+    "static/js/2.7c327f92.chunk.js": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/2.7c327f92.chunk.js",
+    "static/js/2.7c327f92.chunk.js.map": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/2.7c327f92.chunk.js.map",
+    "static/js/3.94fbd5d2.chunk.js": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/3.94fbd5d2.chunk.js",
+    "static/js/3.94fbd5d2.chunk.js.map": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/3.94fbd5d2.chunk.js.map",
+    "index.html": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/index.html",
+    "service-worker.js": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/service-worker.js",
+    "service-worker.js.map": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/service-worker.js.map",
+    "static/css/2.b0d49717.chunk.css.map": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/css/2.b0d49717.chunk.css.map",
+    "static/css/main.a2e92b42.chunk.css.map": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/css/main.a2e92b42.chunk.css.map",
+    "static/js/2.7c327f92.chunk.js.LICENSE.txt": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/js/2.7c327f92.chunk.js.LICENSE.txt",
+    "static/media/logo.d7f3b5e6.svg": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/media/logo.d7f3b5e6.svg",
+    "static/media/primeicons.css": "/%E2%80%8Bhttp://guyindepurker.github.io/soundcloud/static/media/primeicons.e61f3495.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e828106.js",
-    "static/css/2.0c51300a.chunk.css",
+    "static/js/runtime-main.08f2d255.js",
+    "static/css/2.b0d49717.chunk.css",
     "static/js/2.7c327f92.chunk.js",
     "static/css/main.a2e92b42.chunk.css",
-    "static/js/main.feaacfd8.chunk.js"
+    "static/js/main.e082a167.chunk.js"
   ]
 }
